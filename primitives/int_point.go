@@ -3,7 +3,7 @@ package primitives
 import (
 	"math"
 
-	"github.com/jtejido/sourceafis/utils"
+	"github.com/miqdadyyy/go-sourceafis/utils"
 )
 
 type IntPoint struct {

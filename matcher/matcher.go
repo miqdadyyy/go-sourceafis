@@ -3,7 +3,7 @@ package matcher
 import (
 	"context"
 
-	"github.com/jtejido/sourceafis/templates"
+	"github.com/miqdadyyy/go-sourceafis/templates"
 )
 
 type MatcherLogger interface {

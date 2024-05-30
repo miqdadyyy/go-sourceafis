@@ -1,6 +1,6 @@
 package transparency
 
-import "github.com/jtejido/sourceafis/matcher"
+import "github.com/miqdadyyy/go-sourceafis/matcher"
 
 type ConsistentPairingGraph struct {
 	Root    *ConsistentMinutiaPair

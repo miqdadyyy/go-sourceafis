@@ -3,9 +3,9 @@ package tracer
 import (
 	"sort"
 
-	"github.com/jtejido/sourceafis/extractor/logger"
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/extractor/logger"
+	"github.com/miqdadyyy/go-sourceafis/features"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
 
 	"golang.org/x/exp/slices"
 )

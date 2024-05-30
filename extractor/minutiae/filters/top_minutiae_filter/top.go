@@ -3,9 +3,9 @@ package top
 import (
 	"sort"
 
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/config"
+	"github.com/miqdadyyy/go-sourceafis/features"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
 )
 
 func Apply(minutiae *primitives.GenericList[*features.FeatureMinutia]) *primitives.GenericList[*features.FeatureMinutia] {

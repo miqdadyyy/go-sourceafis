@@ -6,8 +6,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/jtejido/sourceafis"
-	"github.com/jtejido/sourceafis/config"
+	"github.com/miqdadyyy/go-sourceafis/config"
 
 	"log"
 )

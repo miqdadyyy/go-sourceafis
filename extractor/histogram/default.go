@@ -3,9 +3,9 @@ package histogram
 import (
 	"sync"
 
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/extractor/logger"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/config"
+	"github.com/miqdadyyy/go-sourceafis/extractor/logger"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
 )
 
 type LocalHistograms struct {

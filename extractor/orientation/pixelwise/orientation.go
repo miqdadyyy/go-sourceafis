@@ -3,10 +3,10 @@ package pixelwise
 import (
 	"math"
 
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/extractor/logger"
-	"github.com/jtejido/sourceafis/primitives"
-	"github.com/jtejido/sourceafis/utils"
+	"github.com/miqdadyyy/go-sourceafis/config"
+	"github.com/miqdadyyy/go-sourceafis/extractor/logger"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/utils"
 )
 
 type ConsideredOrientation struct {

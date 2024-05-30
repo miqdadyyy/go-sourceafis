@@ -10,7 +10,7 @@ import (
 	"path"
 
 	"github.com/jtejido/go-wsq"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
 	"github.com/spakin/netpbm"
 )
 

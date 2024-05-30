@@ -1,6 +1,6 @@
 package features
 
-import "github.com/jtejido/sourceafis/primitives"
+import "github.com/miqdadyyy/go-sourceafis/primitives"
 
 type MinutiaType int
 

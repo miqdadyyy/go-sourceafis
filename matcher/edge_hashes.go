@@ -3,10 +3,10 @@ package matcher
 import (
 	"math"
 
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/primitives"
-	"github.com/jtejido/sourceafis/templates"
+	"github.com/miqdadyyy/go-sourceafis/config"
+	"github.com/miqdadyyy/go-sourceafis/features"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/templates"
 )
 
 func ComplementaryMaxAngleError() float64 {

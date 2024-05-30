@@ -1,7 +1,7 @@
 package dot
 
 import (
-	"github.com/jtejido/sourceafis/features"
+	"github.com/miqdadyyy/go-sourceafis/features"
 )
 
 func Apply(skeleton *features.Skeleton) error {

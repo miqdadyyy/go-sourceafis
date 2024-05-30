@@ -1,12 +1,12 @@
 package skeletons
 
 import (
-	"github.com/jtejido/sourceafis/extractor/logger"
-	"github.com/jtejido/sourceafis/extractor/skeletons/filters"
-	"github.com/jtejido/sourceafis/extractor/skeletons/thinner"
-	"github.com/jtejido/sourceafis/extractor/skeletons/tracer"
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/extractor/logger"
+	"github.com/miqdadyyy/go-sourceafis/extractor/skeletons/filters"
+	"github.com/miqdadyyy/go-sourceafis/extractor/skeletons/thinner"
+	"github.com/miqdadyyy/go-sourceafis/extractor/skeletons/tracer"
+	"github.com/miqdadyyy/go-sourceafis/features"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
 )
 
 type SkeletonGraphs struct {

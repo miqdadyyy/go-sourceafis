@@ -1,7 +1,7 @@
 package features
 
 import (
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/miqdadyyy/go-sourceafis/primitives"
 )
 
 type SkeletonMinutia struct {
